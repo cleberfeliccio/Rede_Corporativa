@@ -21,15 +21,15 @@ em um ambiente prático e organizado.
 
 ## 📂 Estrutura do repositório
 Rede_Corporativa/
-├── Rede_Corp.pkt
-├── topologia.png
-└── configuracoes/
-├── Switch CPD.txt
-├── Switch 0.txt
-└── Switch Administração.txt
-├── Switch Devs.txt
-├── Switch Financeiro.txt
-└── Switch Produção.txt
+├── Rede_Corp.pkt<br>
+├── topologia.png<br>
+└── configuracoes/<br>
+├── Switch CPD.txt<br>
+├── Switch 0.txt<br>
+└── Switch Administração.txt<br>
+├── Switch Devs.txt<br>
+├── Switch Financeiro.txt<br>
+└── Switch Produção.txt<br>
 
 ## ▶️ Como executar
 1. Baixe o arquivo `.pkt`
